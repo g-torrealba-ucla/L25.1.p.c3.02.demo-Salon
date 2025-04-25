@@ -33,4 +33,4 @@ alert(`Estudiantes con 18 años: ${JSON.stringify(salon.quienesConEdad(18))}`);
 
 alert(`Estudiantes con 15 años: ${JSON.stringify(salon.quienesConEdad(15))}`);
 
-alert(`Estudiantes con 30 años: ${JSON.stringify(salon.quienesConEdad(30))}`);
+alert(`Estudiantes con 25 años: ${JSON.stringify(salon.quienesConEdad(25))}`);
